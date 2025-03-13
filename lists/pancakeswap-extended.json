@@ -3435,6 +3435,13 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
-    }
-  ]
+    },
+    {
+  "name": "LiquedBoost",
+  "symbol": "LQB",
+  "address": "0x3702A94AbF9c6927Fb7A678a08cb0A6b962165AC",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://coffee-bizarre-shark-563.mypinata.cloud/files/bafybeigemymmcmswwbvmdyrdxlw2e2ulcyrp2xbfrjxzu2w2h2gb5g3r2i?X-Algorithm=PINATA1&X-Date=1741874582&X-Expires=30&X-Method=GET&X-Signature=fdbec09c6ce4118f3b661c5fc6d17a5f550a7a3e5febb0235a1938352750b14c"
 }
+    ]
